@@ -1,5 +1,7 @@
 # Python
 
+![napkin-selection](https://github.com/user-attachments/assets/126456b1-8c68-48d0-8b23-833beed504df)
+
 Data: 
 
 The data consists of aggregated trip logging metrics from commercial vehicles, 
